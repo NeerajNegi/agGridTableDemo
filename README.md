@@ -1,2 +1,0 @@
-# agGridTableDemo
-Created with CodeSandbox

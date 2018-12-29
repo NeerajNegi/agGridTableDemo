@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import "https://cdnjs.cloudflare.com/ajax/libs/ag-grid/19.1.4/styles/ag-grid.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/ag-grid/19.1.4/styles/ag-theme-balham.css";
+
+html,
+body {
+  font-family: sans-serif;
+}
